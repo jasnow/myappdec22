@@ -1,0 +1,15 @@
+ 1. Run 'rvm install 2.2.4'
+ 2. Run 'gem install rails -v 5.0.0.beta1'
+ 3. Run 'rails new myappdec22 --edge'
+ 4. cd myappdec22
+ 5. Removed comments from Gemfile.
+ 6. Added "gem 'rspec-rails" to Gemfile.
+ 7. Run 'bundle'
+ 8. Set up .rvmrc file.
+ 9. Run 'cd .. ; cd myappdec22'
+ 10. Set up Git and repo on Github. See it at jasnow/myappdec22 repo.
+ 11. Run 'rake' (green)
+ 12. Run 'rails generate rspec:install'
+ 13. Run 'rake' (green)
+
+What did I miss?
